@@ -1,5 +1,5 @@
 # 🍿 USEPOPCORN 🎬
-> Simple movies application created with React. 
+> Simple movies application interacts with the OMDb API, created with React. 
 > Live demo [_here_](https://usepopcorn-martagorska.netlify.app).
 
 ## Table of Contents
@@ -19,11 +19,11 @@ Find a movie, rate it and add it to your watched list 📺
 
 ## Features
 - Searching for a movie 📺
-- Showing movies details 
-- Rating movies and add it to watched list 📝
-- Removing movies from watched ❌
-- Show stats about your watched movies 📊
-- Watched movies stored in browser local storage 📁
+- Showing movie details 
+- Rating movie and add it to watched list 📝
+- Removing movie from watched list ❌
+- Showing stats about watched movies 📊
+- Watched movies are stored in browser local storage 📁
   
 
 ## Technologies Used
@@ -53,7 +53,7 @@ https://github.com/martagorska-dev/usepopcorn/assets/130976058/4c67d9df-ec29-4d8
 
 
 ## Usage
-- Enter the name of the movie in search bar 🖊️
+- Enter the name of the movie in a search bar 🖊️
 - Press Enter button ⌨️
 
 
